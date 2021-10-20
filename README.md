@@ -2,7 +2,7 @@
 
 Prerequisites:
 - Login to https://gems.agroinformatics.org/webui/#
-- Click Analyze>Jupyter Notebooks
+- Click `Analyze > Jupyter Notebooks`
 - Open bash terminal
 
 

@@ -1,9 +1,9 @@
 # Time Series Forecasting in Food and Agriculture
 
 Prerequisites:
-i. Login to https://gems.agroinformatics.org/webui/#
-ii. Click Analyze>Jupyter Notebooks
-iii. Open bash terminal
+- Login to https://gems.agroinformatics.org/webui/#
+- Click Analyze>Jupyter Notebooks
+- Open bash terminal
 
 
 # Setup

@@ -1,2 +1,2 @@
-# geometric-brownian-motion
-Time series forecasting using geometric Brownian motion. 
+# Time Series Forecasting in Food and Agriculture
+
